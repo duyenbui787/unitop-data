@@ -9,39 +9,52 @@
         {
             "id": 2,
             "title": "Sếp Eximbank tiết lộ về trụ sở 3.500m2 trên \"đất vàng\"",
-            "thumbnail_1": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/eximbank-1681457903903.jpeg"
+            "thumbnail_1": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/eximbank-1681457903903.jpeg",
+            "desc": " Tại phiên họp cổ đông 2023 của Eximbank sáng nay (14/4), Chủ tịch HĐQT đã hé lộ thông tin về trụ sở của... "
         },
         {
             "id": 3,
             "title": "Thị trường ảm đạm, chủ đất vẫn hét giá cao",
             "subtitle": "Giá rao bán đất nền ở một số địa phương vẫn tăng",
-            "thumbnail_1": "https://icdn.dantri.com.vn/zoom/234_156/2023/04/14/3365847697635591052136512600644775723091619n-1-crop-1681443874162.jpeg"
+            "thumbnail_1": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/3365847697635591052136512600644775723091619n-1-1681443792986.jpg?watermark=true",
+            "desc": " Qua \"sốt đất\" thị trường bất động sản rơi vào ảm đạm, nhưng mặt bằng giá rao bán đất nền tại một số tỉnh... "
 
         },
         {
             "id": 4,
             "title": "C.Ronaldo tác động chọn HLV mới cho Al Nassr",
-            "thumbnail_1": "https://icdn.dantri.com.vn/zoom/234_156/2023/04/14/ronaldo-al-nassr-1156-1681456802858.jpg"
+            "thumbnail_1": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/ronaldo-al-nassr-1156-1681456802858.jpg",
+            "desc": "Ban lãnh đạo Al Nassr sẽ hỏi ý kiến của C.Ronaldo trong quá trình chọn HLV mới. Nhiều khả năng, CLB Saudi Arabia sẽ..."
         },
         {
             "id": 5,
             "title": "Hãng hàng không nào có tỷ lệ chuyến bay đúng giờ thấp nhất?",
-            "thumbnail_1": "https://icdn.dantri.com.vn/zoom/234_156/2023/03/20/z41966415209621398dc44f2aa275224f417752f7d9d70-crop-1679294597284.jpeg"
+            "thumbnail_1": "https://icdn.dantri.com.vn/thumb_w/680/2023/03/20/z41966415209621398dc44f2aa275224f417752f7d9d70-crop-1679294597284.jpeg",
+            "desc": "Dịp Tết nguyên đán vừa qua, chỉ số đúng giờ của nhiều hãng hàng không sụt giảm mạnh, trong đó Pacific Airlines thậm chí..."
         },
         {
             "id": 6,
             "title": "Hạm đội Thái Bình Dương của Nga báo động sẵn sàng chiến đấu",
-            "thumbnail_1": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/ham-doi-thai-binh-duong-cua-nga-bao-dong-san-sang-chien-daudocx-1681476872343.jpeg"
+            "thumbnail_1": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/ham-doi-thai-binh-duong-cua-nga-bao-dong-san-sang-chien-daudocx-1681476872343.jpeg",
+            "desc": "Bộ trưởng Quốc phòng Nga cho biết toàn bộ Hạm đội Thái Bình Dương của hải quân nước này đã được đặt trong tình..."
         },
         {
             "id": 7,
-            "title": "Ngày 14/4: Số mắc Covid-19 mới tiếp tục tăng cao, lên 780 ca",
-            "thumbnail_1": "https://icdn.dantri.com.vn/zoom/234_156/2023/04/14/xn-crop-1681468955744.jpeg"
+            "title": "Chuyên gia Pháp lên tiếng về biệt thự cổ chi gần 15 tỷ bảo tồn ở Hà Nội",
+            "thumbnail_1": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/15/biet-thu-tran-hung-dao11-1681363063745-1681389460278-1681544392689.jpg",
+            "desc": "TS Emmanuel Cerise người Pháp tham gia vào quá trình bảo tồn biệt thự cổ ở 49 Trần Hưng Đạo cho biết, việc chọn..."
         },
         {
             "id": 8,
             "title": "Giá cước taxi Xanh SM đứng ở đâu so với Grab, Be, Mai Linh?",
-            "thumbnail_1": "https://icdn.dantri.com.vn/zoom/192_128/2023/04/14/taxi-vinfast-xanh-sm-green-car-1681459032076-1681462801888.png"
+            "thumbnail_1": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/taxi-dien-khac-gi-voi-taxi-truyen-thong-anh1-1679716085300-1681462957562.png",
+            "desc": "Ngoài giá mở cửa cao hơn, cước vận tải của taxi Xanh SM tương đối cạnh tranh so với các hãng taxi truyền thống...."
+        },
+        {
+            "id": 9,
+            "title": "Ông Medvedev cảnh báo \"Ba Lan sẽ biến mất\" nếu Nga xung đột với NATO",
+            "thumbnail_1": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/15/med-nga-1681524426873.jpg",
+            "desc": "Cựu Thủ tướng Nga Dmitry Medvedev đã lên tiếng cảnh báo rằng \"Ba Lan có nguy cơ sẽ biến mất\" trong trường hợp xảy..."
         }
     ],
     "post_detail": [{
@@ -62,14 +75,12 @@
             "content_1": "Trong phiên họp đại hội đồng cổ đông thường niên 2023 ngày 14/4 của Ngân hàng TMCP Xuất nhập khẩu Việt Nam - Eximbank (mã chứng khoán: EIB), cổ đông đặt câu hỏi về tiến độ trụ sở nhà băng tại \"đất vàng\" hơn 3.500m2, địa chỉ ở số 7 Lê Thị Hồng Gấm (quận 1, TPHCM). \n Bà Lương Thị Cẩm Tú - Chủ tịch HĐQT Eximbank - cho biết kế hoạch xây đã có nhưng vướng giấy phép, phải xin quy hoạch của TPHCM và cần được các cấp lãnh đạo thông qua. \"Đồng thời, phải thiết kế lại mô hình cho phù hợp với công năng của tòa nhà\", bà Tú nói.\n Bà thông tin, mô hình trước đây là mô hình xây dựng có cả văn phòng, khách sạn, căn hộ. Mô hình không đúng nên phải cập nhật lại cho đúng với công năng đã được sửa đổi là chỉ xây dựng làm văn phòng. \"Tuy nhiên, phải tuân thủ pháp luật hiện hành khi đã đủ giấy phép. Đây cũng là nhiệm vụ trọng tâm của năm 2023\", Chủ tịch Eximbank thông tin tới cổ đông.",
             "content_2": "Về kế hoạch kinh doanh năm 2023, ngân hàng đặt mục tiêu lợi nhuận trước thuế 5.000 tỷ đồng, tăng 35%. Dư nợ cấp tín dụng tăng 12,3% lên trên 16.000 tỷ đồng và tổng tài sản mở rộng 13,5% để chạm mốc 210.000 tỷ đồng. Tỷ lệ nợ xấu nội bảng tối đa 1,6%. \n Tổng giám đốc Trần Tấn Lộc đánh giá kế hoạch năm nay tính toán rất kỹ, có tính đến bối cảnh kinh tế vĩ mô trong và ngoài nước có nhiều biến động như hiện nay. CEO ngân hàng tiết lộ đã có những phương án để đạt được mục tiêu lợi nhuận 5.000 tỷ đồng, quý I đã đạt khoảng 900 tỷ đồng, tăng 16%. \n Chủ tịch HĐQT Lương Thị Cẩm Tú nói thêm, nhiệm kỳ này đã tái cấu trúc mạnh mẽ, xử lý nhân sự, nâng cao hình ảnh và tái cơ cấu toàn bộ các mảng. Lãnh đạo ngân hàng tự tin hoàn thành kế hoạch năm và kết quả quý I đang đi đúng lộ trình.",
             "created_date": "Thứ sáu, 14/04/2023",
-            "desc": " Tại phiên họp cổ đông 2023 của Eximbank sáng nay (14/4), Chủ tịch HĐQT đã hé lộ thông tin về trụ sở của... ",
             "post_id": 2
         },
         {
             "id": 3,
             "title": "Thị trường ảm đạm, chủ đất vẫn hét giá cao",
-            "thumbnail_2": "https://icdn.dantri.com.vn/zoom/234_156/2023/04/14/3365847697635591052136512600644775723091619n-1-crop-1681443874162.jpeg",
-            "desc": " Qua \"sốt đất\" thị trường bất động sản rơi vào ảm đạm, nhưng mặt bằng giá rao bán đất nền tại một số tỉnh... ",
+            "thumbnail_2": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/3365847697635591052136512600644775723091619n-1-1681443792986.jpg?watermark=true",
             "sapo": "(Dân trí) - Qua \"sốt đất\" thị trường bất động sản rơi vào ảm đạm, nhưng mặt bằng giá rao bán đất nền tại một số tỉnh vẫn tăng. Chuyên gia lý giải nghịch lý này ra sao?",
             "content_1": "Theo báo cáo của nhiều đơn vị nghiên cứu, thị trường bất động sản quý I năm nay vẫn trong tình trạng trầm lắng. Thanh khoản thị trường về đáy xuyên suốt những tháng qua khiến nhiều chủ đầu tư liên tục dời lịch mở bán sản phẩm mới theo kế hoạch. \n Nhiều doanh nghiệp tiếp tục đợi tín hiệu từ thị trường. Không ít nhà đầu tư cá nhân chờ đợi cơ hội đầu tư vững chắc. Hàng nghìn dự án \"án binh bất động\" chờ được tháo gỡ.\n Dữ liệu của Hội Môi giới Bất động sản Việt Nam (VARS) cho thấy, thanh khoản trên thị trường bất động sản đang có xu hướng giảm rõ rệt, đặc biệt so với giai đoạn \"sốt đất\" nửa đầu năm 2022. Giá bất động sản, đặc biệt là sản phẩm đất nền ở những khu vực từng xảy ra \"sốt đất\" tiếp tục được điều chỉnh về giá trị phù hợp, tương xứng với giá trị đầu tư vào nội tại sản phẩm và hạ tầng khu vực.",
             "content_2": "Còn theo dữ liệu của một đơn vị nghiên cứu về bất động sản, giá rao bán đất nền tại nhiều tỉnh phía Nam và ven biển miền Trung có xu hướng giảm. Cụ thể, đất nền Long An và Bà Rịa - Vũng Tàu đều giảm giá 6%, các tỉnh Đà Nẵng, Quảng Nam, Khánh Hòa giảm 2-11%. Bình Thuận là tỉnh ven biển hiếm hoi chứng kiến sự tăng giá rao bán đất nền lên đến 25% so với quý liền trước. \n Đáng chú ý, dù mức độ quan tâm đến đất nền các tỉnh phía Bắc trong quý I năm nay giảm so với quý trước nhưng mặt bằng giá rao bán đất nền tại một số tỉnh vẫn tăng. Trong đó, giá đất nền Hưng Yên tăng 17%, Quảng Ninh tăng 15%, Hải Phòng tăng 4%.",
@@ -80,7 +91,6 @@
             "id": 4,
             "title": "C.Ronaldo tác động chọn HLV mới cho Al Nassr",
             "thumbnail_2": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/ronaldo-al-nassr-1156-1681456802858.jpg",
-            "desc": "Ban lãnh đạo Al Nassr sẽ hỏi ý kiến của C.Ronaldo trong quá trình chọn HLV mới. Nhiều khả năng, CLB Saudi Arabia sẽ...",
             "sapo": "(Dân trí) - Ban lãnh đạo Al Nassr sẽ hỏi ý kiến của C.Ronaldo trong quá trình chọn HLV mới. Nhiều khả năng, CLB Saudi Arabia sẽ đưa về HLV tên tuổi.",
             "content_1": "Vào tối qua, CLB Al Nassr đã sa thải HLV Rudi Garcia. Theo nguồn tin từ Saudi Arabia, C.Ronaldo được cho là \"có tác động\" dẫn tới quyết định này. Tiền đạo người Bồ Đào Nha không hài lòng với lối chơi của HLV Rudi Garcia. Cầu thủ này đã tổ chức \"cuộc họp bí mật\" với các trụ cột của đội bóng, để bày tỏ sự thất vọng với HLV người Pháp.",
             "content_2": "Trước mắt, Ban lãnh đạo Al Nassr tạm thời để HLV đội trẻ Dinko Jelicic dẫn dắt CLB. Tuy nhiên, họ đang tìm kiếm HLV tên tuổi để vực dậy đội bóng. Theo tờ Goal, Al Nassr sẽ hỏi ý kiến của C.Ronaldo trong quá trình chọn HLV mới. Trong đó, tiếng nói của CR7 có vai trò quan trọng trong vụ này. \n Hiện tại, hai ứng cử viên Al Nassr nhắm tới là Mourinho và Zidane. Cả hai HLV từng có thời gian làm việc với C.Ronaldo trước đây tại Real Madrid. Trong đó, HLV Zidane vẫn thất nghiệp kể từ khi rời khỏi Real Madrid vào năm 2021. Thế nhưng, tờ Goal nhấn mạnh rằng ông thầy người Pháp chưa chắc nhận lời Al Nassr. Thay vào đó, Zizou muốn tìm cơ hội làm việc ở châu Âu.\n Ở thương vụ lôi kéo HLV Mourinho, Al Nassr sẵn sàng trả mức lương cao kỷ lục lên tới 100 triệu euro trong hai mùa giải. Nhưng cái khó của Al Nassr lúc này là HLV Mourinho đang trên con đường chinh phục mục tiêu lớn cùng AS Roma. Hiện tại, CLB thành Roma vẫn còn cơ hội giành chức vô địch Europa League và đua tranh top 4 Serie A. Do đó, không dễ gì để \"Người đặc biệt\" từ bỏ AS Roma. \n Nếu không thể chiêu mộ được hai HLV Mourinho và Zidane, Al Nassr có thể chuyển tầm ngắm sang các HLV ít tên tuổi hơn như Jorge Jesus hay Marcelo Gallardo. Trong đó, HLV Jorge Jesus có sự am hiểu nhất định về bóng đá Saudi Arabia khi từng có thời gian làm việc ở CLB Al Hilal.",
@@ -91,7 +101,6 @@
             "id": 5,
             "title": "Hãng hàng không nào có tỷ lệ chuyến bay đúng giờ thấp nhất?",
             "thumbnail_2": "https://icdn.dantri.com.vn/thumb_w/680/2023/03/20/z41966415209621398dc44f2aa275224f417752f7d9d70-crop-1679294597284.jpeg",
-            "desc": "Dịp Tết nguyên đán vừa qua, chỉ số đúng giờ của nhiều hãng hàng không sụt giảm mạnh, trong đó Pacific Airlines thậm chí...",
             "sapo": "(Dân trí) - Dịp Tết nguyên đán vừa qua, chỉ số đúng giờ của nhiều hãng hàng không sụt giảm mạnh, trong đó Pacific Airlines thậm chí có 59,12% chuyến bay đúng giờ.",
             "content_1": "Cục Hàng không Việt Nam vừa báo cáo Bộ Giao thông vận tải (GTVT) tình hình chậm hủy chuyến của ngành hàng không trong giai đoạn cao điểm Tết Nguyên đán 2023 (6/1 - 5/2/2023). Theo báo cáo, tổng sản lượng hành khách trong giai đoạn này đạt hơn 10 triệu lượt, tăng 66,9% so với cùng kỳ năm ngoái. Lượng khách ghi nhận xấp xỉ bằng so với cùng kỳ năm 2020, trước khi đại dịch Covid-19 bùng nổ. \n Đáng nói, nhiều hãng hàng không đã sụt giảm mạnh chỉ số đúng giờ. Tỉ lệ bay đúng giờ trung bình (OTP) của toàn ngành hàng không dịp cao điểm Tết Nguyên đán 2023 chỉ đạt 80,61%. Trong khi đó, Tết Nguyên đán 2022 tỷ lệ đúng giờ toàn ngành vẫn đạt 86%; tỷ lệ OTP Tết Nguyên đán 2020 vẫn đạt 85,3%.",
             "content_2": "Theo Cục Hàng không Việt Nam, hãng hàng không Pacific Airlines là đơn vị có tỷ lệ bay đúng giờ trung bình thấp nhất (59,12%), tiếp theo là Vietjet Air với 75,06%, Vietravel Airlines (83,79%) và Vietnam Airlines với tỷ lệ OTP 84,87%. \n Báo cáo của Cục Hàng không Việt Nam cho thấy, tỷ lệ chậm, hủy chuyến của toàn ngành là 19,39%. Tuy nhiên, 3 hãng hàng không chậm, hủy chuyến nhiều nhất trong giai đoạn này là Pacific Airlines, Vietjet và VASCO, tương ứng với các tỷ lệ 40,88%, 24,94% và 19,56%. \n Vietravel Airlines và Vietnam Airlines có tỷ lệ chậm, hủy chuyến thấp hơn với tỷ lệ lần lượt 16,21% và 15,13%. Bamboo Airways là hãng bay ít chậm/hủy chuyến nhất với tỉ lệ 7,19%. ",
@@ -101,7 +110,6 @@
         {
             "id": 6,
             "title": "Hạm đội Thái Bình Dương của Nga báo động sẵn sàng chiến đấu",
-            "desc": "Bộ trưởng Quốc phòng Nga cho biết toàn bộ Hạm đội Thái Bình Dương của hải quân nước này đã được đặt trong tình...",
             "thumbnail_2": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/ham-doi-thai-binh-duong-cua-nga-bao-dong-san-sang-chien-daudocx-1681476872343.jpeg",
             "sapo": "(Dân trí) - Bộ trưởng Quốc phòng Nga cho biết toàn bộ Hạm đội Thái Bình Dương của hải quân nước này đã được đặt trong tình trạng báo động sẵn sàng chiến đấu.",
             "content_1": " Toàn bộ Hạm đội Thái Bình Dương đã được báo động và đặt trong tình trạng sẵn sàng chiến đấu cao độ, \"Bộ trưởng Quốc phòng Nga, Đại tướng Sergei Shoigu xác nhận với hãng thông tấn RIA Novosti hôm 14/4.\" \n Theo ông Shoigu, đây là động thái nhằm kiểm tra năng lực sẵn sàng tác chiến của các lực lượng thuộc Hạm đội Thái Bình Dương. \n \"Trong cuộc kiểm tra này, Hạm đội Thái Bình Dương sẽ tiến hành các bài tập giả định nhằm chống lại các đòn tập kích tên lửa và đường không của đối phương, tìm kiếm và tiêu diệt tàu ngầm, phóng ngư lôi, bắn pháo và phóng tên lửa nhằm vào các mục tiêu mặt nước và trên bộ\", Đại tướng Shoigu nói thêm. \n Hãng tin Guardian cho biết cuộc kiểm tra bất ngờ hôm 14/4 được tiến hành sau khi tình hình tại khu vực châu Á - Thái Bình Dương ngày càng căng thẳng sau các vụ phóng thử tên lửa của Triều Tiên cùng những cuộc tập trận đáp trả của liên quân Mỹ - Hàn. /n Khi được hỏi về phản ứng của Điện Kremlin về vụ việc trên, người phát ngôn Điện Kremlin Dmitry Peskov cho biết \"đó là một hoạt động thông thường và được tiến hành trong những năm trở lại đây\". Ông Peskov đồng thời khẳng định mục đích của việc báo động chiến đấu toàn bộ Hạm đội Thái Bình Dương \"chỉ đơn thuần là nhằm nâng cao năng lực cảnh giác của lực lượng này\". \n Trước đó, vào ngày 28/3, một tàu chiến thuộc Hạm đội Thái Bình Dương của Nga đã tiến hành phóng thử thành công một tên lửa chống hạm siêu thanh vào một mục tiêu giả định trên biển.",
@@ -113,7 +121,6 @@
             "id": 7,
             "title": "Ngày 14/4: Số mắc Covid-19 mới tiếp tục tăng cao, lên 780 ca",
             "thumbnail_2": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/ca-mac-covid-144-1681469988649.jpg",
-            "desc": "Bộ Y tế cho biết trong ngày 14/4, cả nước ghi nhận 780 ca mắc Covid-19 mới, nhiều hơn 283 ca với ngày hôm...",
             "sapo": "(Dân trí) - Bộ Y tế cho biết trong ngày 14/4, cả nước ghi nhận 780 ca mắc Covid-19 mới, nhiều hơn 283 ca với ngày hôm qua.",
             "content_1": "Ngày 14/4, số ca mắc Covid-19 mới tại nước ta vẫn tiếp tục đà tăng lên con số 780. Số mắc tập trung chủ yếu ở khu vực phía Bắc. \n Từ đầu dịch đến nay Việt Nam có 11.529.580 ca nhiễm, đứng thứ 13/230 quốc gia và vùng lãnh thổ. \n Về tình hình điều trị, trong ngày có 104 bệnh nhân được công bố khỏi bệnh. Có 23 trường hợp phải thở oxy qua mặt nạ, nhiều hơn 15 ca so với báo cáo ngày 13/4. Bên cạnh đó, cũng có 1 ca phải thở HFNC.  \n Trong ngày 13/4, nước ta cũng không ghi nhận ca tử vong nào. \n Như vậy, đến nay cả nước có hơn 43.000 ca tử vong do Covid-19, chiếm tỷ lệ 0,4% so với tổng số ca nhiễm. Trong ngày 13/4, có 5.519 liều vaccine phòng Covid-19 được tiêm. ",
             "content_2": "Theo Thứ trưởng Bộ Y tế Nguyễn Thị Liên Hương, hiện ca mắc Covid-19 tăng nhưng không có tử vong, tỷ lệ chuyển nặng tăng hơn so tháng trước 5 ca. Dù vậy, chúng ta vẫn cần cảnh giác để có biện pháp đáp ứng kịp thời với Covid-19 cũng như các dịch bệnh khác như sốt xuất huyết. Các tỉnh thành phố cần xây dựng kế hoạch triển khai các biện pháp cho phù hợp, bố trí kinh phí. \n Về vaccine phòng Covid-19, Thứ trưởng đề nghị một số tỉnh có tỷ lệ tiêm mũi 3, tiêm mũi 2 cho trẻ thấp cần cố gắng để đạt tỷ lệ đề ra. \n Dịch Covid-19 vẫn là tình trạng khẩn cấp về sức khỏe cộng đồng quốc tế, tiềm ẩn nguy cơ bùng phát với các biến thể mới. ",
@@ -124,7 +131,6 @@
             "id": 8,
             "title": "Giá cước taxi Xanh SM đứng ở đâu so với Grab, Be, Mai Linh?",
             "thumbnail_2": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/taxi-dien-khac-gi-voi-taxi-truyen-thong-anh1-1679716085300-1681462957562.png",
-            "desc": "Ngoài giá mở cửa cao hơn, cước vận tải của taxi Xanh SM tương đối cạnh tranh so với các hãng taxi truyền thống....",
             "sapo": "(Dân trí) - Ngoài giá mở cửa cao hơn, cước vận tải của taxi Xanh SM tương đối cạnh tranh so với các hãng taxi truyền thống. So với Grab, Be, taxi điện VinFast đang không có mã khuyến mại.",
             "content_1": "Ngày 14/4, Công ty cổ phần Di chuyển Xanh và Thông minh GSM (Green - Smart - Mobility) đưa dịch vụ taxi thuần điện đầu tiên tại Việt Nam - Xanh SM vào hoạt động. \n Giá mở cửa cho km đầu tiên của dịch vụ GreenCar là 20.000 đồng. Với 24km tiếp theo, giá cước đối với xe VF 5 Plus là 14.000 đồng/km, đối với xe VF e34 là 15.500 đồng/km. Từ km thứ 26 trở đi, giá cước lần lượt là 12.000 đồng/km đối với VF 5 Plus và 12.500 đồng/km đối với VF e34. \n Mức giá dành cho dịch vụ LuxuryCar là cố định 21.000 đồng/km cho toàn bộ hành trình. \n Đặt thử trên ứng dụng Taxi Xanh SM, với quãng đường từ Cầu Trắng, Hà Đông đi số 2 Giảng Võ (khoảng 9,2km), cước hiển thị cho dịch vụ GreenCar thời điểm lúc 15h là 123.000 đồng. Đáng chú ý, dù mới ra mắt, Xanh SM không cung cấp mã khuyến mại nào.",
             "content_2": "Trong khi đó, cùng chặng đường trên, Grab đưa ra giá cước cho dịch vụ GrabCar là 116.000 đồng, áp mã khuyến mại giảm 25% (tối đa 100.000 đồng) còn 87.000 đồng. Với Be, giá cước của BeCar là 114.000 đồng, áp mã khuyến mại giảm 30% (tối đa 50.000 đồng) còn 92.000 đồng. \n Ở ví dụ về quãng đường 9,2km kể trên, hãng taxi thuần điện đầu tiên tại Việt Nam có giá nhỉnh hơn một chút (nếu không tính mã khuyến mại) so với các hãng xe công nghệ. \n Tuy nhiên, Grab và Be tính thêm giá cước phụ thuộc vào thời gian di chuyển, thay đổi điểm đến, thời tiết nên chi phí thực tế có thể cao hơn. Còn taxi Xanh SM cố định chi phí theo số km và hiện chưa rõ phụ thu. Một lợi thế nữa của Xanh SM là xe điện đi êm ái, không say xe và rộng rãi hơn xe xăng truyền thống. \n Trường hợp so sánh giá với các dịch vụ taxi truyền thống, giá mở cửa của taxi điện VinFast (20.000 đồng) cao hơn 9.000 đồng so với của taxi Mai Linh và Vinasun. Tuy vậy, giá cước đối với xe VF 5 Plus lại rẻ hơn trên từng km tiếp theo. Tức càng đi xa, chi phí lại càng có xu hướng thấp hơn các hãng taxi truyền thống.",
@@ -133,27 +139,13 @@
         },
         {
             "id": 9,
-            "title": "Giá cước taxi Xanh SM đứng ở đâu so với Grab, Be, Mai Linh?",
-            "thumbnail_2": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/taxi-dien-khac-gi-voi-taxi-truyen-thong-anh1-1679716085300-1681462957562.png",
-            "desc": "Ngoài giá mở cửa cao hơn, cước vận tải của taxi Xanh SM tương đối cạnh tranh so với các hãng taxi truyền thống....",
-            "sapo": "(Dân trí) - Ngoài giá mở cửa cao hơn, cước vận tải của taxi Xanh SM tương đối cạnh tranh so với các hãng taxi truyền thống. So với Grab, Be, taxi điện VinFast đang không có mã khuyến mại.",
-            "content_1": "Ngày 14/4, Công ty cổ phần Di chuyển Xanh và Thông minh GSM (Green - Smart - Mobility) đưa dịch vụ taxi thuần điện đầu tiên tại Việt Nam - Xanh SM vào hoạt động. \n Giá mở cửa cho km đầu tiên của dịch vụ GreenCar là 20.000 đồng. Với 24km tiếp theo, giá cước đối với xe VF 5 Plus là 14.000 đồng/km, đối với xe VF e34 là 15.500 đồng/km. Từ km thứ 26 trở đi, giá cước lần lượt là 12.000 đồng/km đối với VF 5 Plus và 12.500 đồng/km đối với VF e34. \n Mức giá dành cho dịch vụ LuxuryCar là cố định 21.000 đồng/km cho toàn bộ hành trình. \n Đặt thử trên ứng dụng Taxi Xanh SM, với quãng đường từ Cầu Trắng, Hà Đông đi số 2 Giảng Võ (khoảng 9,2km), cước hiển thị cho dịch vụ GreenCar thời điểm lúc 15h là 123.000 đồng. Đáng chú ý, dù mới ra mắt, Xanh SM không cung cấp mã khuyến mại nào.",
-            "content_2": "Trong khi đó, cùng chặng đường trên, Grab đưa ra giá cước cho dịch vụ GrabCar là 116.000 đồng, áp mã khuyến mại giảm 25% (tối đa 100.000 đồng) còn 87.000 đồng. Với Be, giá cước của BeCar là 114.000 đồng, áp mã khuyến mại giảm 30% (tối đa 50.000 đồng) còn 92.000 đồng. \n Ở ví dụ về quãng đường 9,2km kể trên, hãng taxi thuần điện đầu tiên tại Việt Nam có giá nhỉnh hơn một chút (nếu không tính mã khuyến mại) so với các hãng xe công nghệ. \n Tuy nhiên, Grab và Be tính thêm giá cước phụ thuộc vào thời gian di chuyển, thay đổi điểm đến, thời tiết nên chi phí thực tế có thể cao hơn. Còn taxi Xanh SM cố định chi phí theo số km và hiện chưa rõ phụ thu. Một lợi thế nữa của Xanh SM là xe điện đi êm ái, không say xe và rộng rãi hơn xe xăng truyền thống. \n Trường hợp so sánh giá với các dịch vụ taxi truyền thống, giá mở cửa của taxi điện VinFast (20.000 đồng) cao hơn 9.000 đồng so với của taxi Mai Linh và Vinasun. Tuy vậy, giá cước đối với xe VF 5 Plus lại rẻ hơn trên từng km tiếp theo. Tức càng đi xa, chi phí lại càng có xu hướng thấp hơn các hãng taxi truyền thống.",
+            "title": "Ông Medvedev cảnh báo \"Ba Lan sẽ biến mất\" nếu Nga xung đột với NATO",
+            "thumbnail_2": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/15/med-nga-1681524426873.jpg",
+            "sapo": "(Dân trí) - Cựu Thủ tướng Nga Dmitry Medvedev đã lên tiếng cảnh báo rằng \"Ba Lan có nguy cơ sẽ biến mất\" trong trường hợp xảy ra xung đột giữa NATO và Nga.",
+            "content_1": "Theo ông Medvedev, nếu Nga xung đột với NATO, 'Ba Lan sẽ bị xóa sổ khỏi mặt đất' bất kể kết quả như thế nào. Vị cựu lãnh đạo này đã đăng cảnh báo như vậy trên tài khoản Twitter @MedvedevRussiaE trong ngày 14/4. \n \"Một nhân vật có tên là Mateusz Morawiecki đã nói, Ukraine có quyền tấn công Nga và ông ta cũng nói là bản thân không cần lo ngại về một cuộc chiến của NATO chống lại Nga vì Moscow sẽ sớm thua cuộc\", Phó Chủ tịch Hội đồng An ninh Liên bang Nga viết. \n Ông Medvedev tiếp tục nhấn mạnh: \"Tôi không biết ai sẽ thắng hay thua trong một cuộc chiến như vậy, nhưng xét đến vai trò của Ba Lan như một tiền đồn của NATO ở châu Âu, nước này chắc chắn sẽ biến mất cùng với vị Thủ tướng của họ\". \n Phát biểu với NBC News trước đó, Thủ tướng Ba Lan Mateusz Morawiecki cho biết Ukraine có quyền tấn công lãnh thổ Nga và khẳng định những hành động như vậy không vi phạm bất kỳ thỏa thuận nào với các quốc gia hỗ trợ. \n Ông Morawiecki cũng lưu ý, bản thân không quá lo ngại các cuộc tấn công như vậy có thể dẫn đến một cuộc đối đầu trực tiếp giữa NATO và Nga, bởi vì: \"Nga sẽ nhanh chóng thua trong một cuộc chiến như vậy và Điện Kremlin biết điều đó\".",
+            "content_2": "\"Họ tin chiến sự với Ukraine tức là chiến sự với phương Tây và NATO, trong khi thực tế chúng tôi chỉ đang hỗ trợ một quốc gia bị tấn công\", ông Morawiecki nói. \n Thủ tướng Ba Lan tỏ rõ quan điểm rằng, cuộc chiến ở Ukraine có thể kéo dài nhiều năm và bày tỏ tin tưởng vào các cơ quan tình báo Mỹ, bất chấp vụ rò rỉ tài liệu mật gần đây. \n Ông Morawiecki lưu ý mặc dù Lực lượng vũ trang Ukraine đang chiến đấu rất ác liệt, nhưng không nên đánh giá thấp sức mạnh của Lực lượng vũ trang Nga. \"Đó là lý do tại sao chúng ta phải chuẩn bị cho một cuộc chiến lâu dài hơn\", ông nói. \n Vào ngày 8/4, một nhà báo chuyên mục của Rzeczpospolita đã đề cập trong một bài viết rằng, các chuyên gia Ba Lan đã khuyên nên khôi phục cấu trúc của Khối thịnh vượng chung, bằng cách sáp nhập Ukraine vào Ba Lan hiện đại. \n Một \"nhà nước Ba Lan lớn và mạnh\" như vậy có thể chống lại \"sự tấn công dữ dội\" từ Nga và đảm bảo sự ổn định và an ninh của toàn khu vực, nhà báo trên nhấn mạnh. \n Ấn bản tiếng Ukraine của báo Strana viết vào ngày 5/4 rằng, văn phòng Tổng thống Ukraine đang thảo luận về kế hoạch liên minh với Ba Lan. Họ nói điều này cuối cùng sẽ dẫn đến việc tạo ra một Khối thịnh vượng chung mới.",
             "created_date": "Thứ sáu, 14/04/2023",
-            "post_id": 8
-        },
-
-        {
-            "id": 10,
-            "title": "Giá cước taxi Xanh SM đứng ở đâu so với Grab, Be, Mai Linh?",
-            "thumbnail_2": "https://icdn.dantri.com.vn/thumb_w/680/2023/04/14/taxi-dien-khac-gi-voi-taxi-truyen-thong-anh1-1679716085300-1681462957562.png",
-            "desc": "Ngoài giá mở cửa cao hơn, cước vận tải của taxi Xanh SM tương đối cạnh tranh so với các hãng taxi truyền thống....",
-            "sapo": "(Dân trí) - Ngoài giá mở cửa cao hơn, cước vận tải của taxi Xanh SM tương đối cạnh tranh so với các hãng taxi truyền thống. So với Grab, Be, taxi điện VinFast đang không có mã khuyến mại.",
-            "content_1": "Ngày 14/4, Công ty cổ phần Di chuyển Xanh và Thông minh GSM (Green - Smart - Mobility) đưa dịch vụ taxi thuần điện đầu tiên tại Việt Nam - Xanh SM vào hoạt động. \n Giá mở cửa cho km đầu tiên của dịch vụ GreenCar là 20.000 đồng. Với 24km tiếp theo, giá cước đối với xe VF 5 Plus là 14.000 đồng/km, đối với xe VF e34 là 15.500 đồng/km. Từ km thứ 26 trở đi, giá cước lần lượt là 12.000 đồng/km đối với VF 5 Plus và 12.500 đồng/km đối với VF e34. \n Mức giá dành cho dịch vụ LuxuryCar là cố định 21.000 đồng/km cho toàn bộ hành trình. \n Đặt thử trên ứng dụng Taxi Xanh SM, với quãng đường từ Cầu Trắng, Hà Đông đi số 2 Giảng Võ (khoảng 9,2km), cước hiển thị cho dịch vụ GreenCar thời điểm lúc 15h là 123.000 đồng. Đáng chú ý, dù mới ra mắt, Xanh SM không cung cấp mã khuyến mại nào.",
-            "content_2": "Trong khi đó, cùng chặng đường trên, Grab đưa ra giá cước cho dịch vụ GrabCar là 116.000 đồng, áp mã khuyến mại giảm 25% (tối đa 100.000 đồng) còn 87.000 đồng. Với Be, giá cước của BeCar là 114.000 đồng, áp mã khuyến mại giảm 30% (tối đa 50.000 đồng) còn 92.000 đồng. \n Ở ví dụ về quãng đường 9,2km kể trên, hãng taxi thuần điện đầu tiên tại Việt Nam có giá nhỉnh hơn một chút (nếu không tính mã khuyến mại) so với các hãng xe công nghệ. \n Tuy nhiên, Grab và Be tính thêm giá cước phụ thuộc vào thời gian di chuyển, thay đổi điểm đến, thời tiết nên chi phí thực tế có thể cao hơn. Còn taxi Xanh SM cố định chi phí theo số km và hiện chưa rõ phụ thu. Một lợi thế nữa của Xanh SM là xe điện đi êm ái, không say xe và rộng rãi hơn xe xăng truyền thống. \n Trường hợp so sánh giá với các dịch vụ taxi truyền thống, giá mở cửa của taxi điện VinFast (20.000 đồng) cao hơn 9.000 đồng so với của taxi Mai Linh và Vinasun. Tuy vậy, giá cước đối với xe VF 5 Plus lại rẻ hơn trên từng km tiếp theo. Tức càng đi xa, chi phí lại càng có xu hướng thấp hơn các hãng taxi truyền thống.",
-            "created_date": "Thứ sáu, 14/04/2023",
-            "post_id": 8
+            "post_id": 9
         }
-
     ]
 }
